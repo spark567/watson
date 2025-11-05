@@ -17,7 +17,7 @@
     ];
 
     # Use more modern nftables instead of iptables
-    nftables.enable = true;
+    # nftables.enable = true;
 
     # # Gateways, these are specified in netcup
     defaultGateway6 = {
