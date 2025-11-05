@@ -114,6 +114,7 @@
       unzip
       zip
       lsof # A nicer alternative to netstat
+      jq
     ];
   };
 
