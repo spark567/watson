@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Building
 **1. Clone this repository:**
 ```bash
@@ -15,6 +14,3 @@ nixos-rebuild switch --flake .#hostname --target-host root@host --build-host roo
     ```bash
     nixos-rebuild switch --flake /etc/nixos
     ```
-=======
-# watson
->>>>>>> 4d5c548 (Disabled nftables and made a change to the docker config)
