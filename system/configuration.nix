@@ -194,6 +194,7 @@
         shell = pkgs.fish;
         openssh.authorizedKeys.keys = [
           "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGiRKJiC+keGpcnWC9vItrPGqYSq9+bK3pNWc+zgnrMR user@radcliffe"
+          "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIL2za6psnuIMZ6FrdUehhyQlqYvy05+wv8dKER+Lctna snowy@Snowflake"
         ];
       };
 
@@ -201,6 +202,7 @@
         shell = pkgs.fish;
         openssh.authorizedKeys.keys = [
           "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGiRKJiC+keGpcnWC9vItrPGqYSq9+bK3pNWc+zgnrMR user@radcliffe"
+          "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIL2za6psnuIMZ6FrdUehhyQlqYvy05+wv8dKER+Lctna snowy@Snowflake"
         ];
       };
     };
